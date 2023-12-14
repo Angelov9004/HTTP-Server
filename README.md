@@ -15,7 +15,7 @@ for more complex applications, using frameworks like Spring Boot or Jetty might 
 
 
 How to start: 
-Open you IDE , open new project , run Bulgarians.java , go to http://localhost:8000 on your browser. 
+Open prefered IDE , open new project , run Bulgarians.java , go to http://localhost:8000 on your browser. 
 
 
 
