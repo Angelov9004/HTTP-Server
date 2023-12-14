@@ -7,9 +7,15 @@ For other paths, it responds with a 404 error. You can modify the MyHandler clas
 
 To use it on port 80 , grant root access.
 
+to set a website , go to public_html and replace the existing files.
+
 
 Remember, when developing real applications, you should handle exceptions, manage resources properly, and consider security aspects like input validation and error handling. Additionally, 
 for more complex applications, using frameworks like Spring Boot or Jetty might provide more features and easier management of HTTP endpoints.
+
+
+How to start: 
+Open you IDE , open new project , run Bulgarians.java , go to http://localhost:8000 on your browser. 
 
 
 
